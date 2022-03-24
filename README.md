@@ -1,1 +1,1 @@
-# In-Class session aboyt validation with Formik and Yup
+# In-Class session about validation with Formik and Yup
